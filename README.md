@@ -21,7 +21,7 @@ Az-AutoShutdown -ResourceGroup xxxxx -ShutDownTime 1900 -TimeZone ""GMT Standard
 
 Valid timezones:
 
-'''
+```
 AUS Central Standard Time,  AUS Eastern Standard Time,  Afghanistan Standard Time,  Alaskan Standard Time,  Aleutian Standard Time,  Altai Standard Time, 
 Arab Standard Time,  Arabian Standard Time, Arabic Standard Time, Argentina Standard Time, Astrakhan Standard Time, Atlantic Standard Time,
 Aus Central W. Standard Time, Azerbaijan Standard Time, Azores Standard Time, Bahia Standard Time, Bangladesh Standard Time, Belarus Standard Time,
@@ -44,9 +44,10 @@ Tokyo Standard Time, Tomsk Standard Time, Tonga Standard Time, Transbaikal Stand
 US Mountain Standard Time, UTC+12, UTC+13, UTC, UTC-02, UTC-08, UTC-09, UTC-11, Ulaanbaatar Standard Time, Venezuela Standard Time, Vladivostok Standard Time,
 Volgograd Standard Time, W. Australia Standard Time, W. Central Africa Standard Time, W. Europe Standard Time, W. Mongolia Standard Time, West Asia Standard Time,
 West Bank Standard Time, West Pacific Standard Time, Yakutsk Standard Time, Yukon Standard Time, Kamchatka Standard Time, Mid-Atlantic Standard Time Correlation
-'''
+```
+
 ## Author
-Stuart Parkington and Darren Harding
+Stuart Parkington
 
 ## Licence
 None.
